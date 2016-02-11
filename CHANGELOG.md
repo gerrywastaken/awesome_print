@@ -1,5 +1,6 @@
 ## master (unreleased)
   - Handles NoMethodError for IRB implicit `ai` [@jtnegrotto] - [#212]
+  - Colorize ORM class names (Alexey Zapparov)
 
 ## 1.7.0
   - Refactoring by extracting formatters into their own classes [@waldyr] - [#237]
